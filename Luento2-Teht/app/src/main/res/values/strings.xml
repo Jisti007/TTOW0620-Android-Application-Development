@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Luento2-Teht</string>
+    <string name="text_radio1">Meatballs</string>
+    <string name="text_radio2">Chicken</string>
+    <string name="text_radio3">Fish</string>
+    <string name="text_radio4">Steak</string>
+    <string name="text_radio5">Carrots</string>
+    <string name="buttonSelect">Select</string>
+</resources>
