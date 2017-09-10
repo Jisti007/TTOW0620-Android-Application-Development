@@ -6,7 +6,6 @@
     <string name="text_radio4">Steak</string>
     <string name="text_radio5">Carrots</string>
     <string name="buttonSelect">Select</string>
-    <string name="hello_world">Hello world</string>
-    <string name="hello_world_land">Hello landscape-mode</string>
-    <string name="another_string">Another sample string.</string>
+    <string name="hello_world">Moikka maailma</string>
+    <string name="hello_world_land">Moikka landscape-maailma</string>
 </resources>

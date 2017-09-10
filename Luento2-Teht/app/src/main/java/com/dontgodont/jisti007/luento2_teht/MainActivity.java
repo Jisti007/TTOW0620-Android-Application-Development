@@ -26,6 +26,19 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void btn3Click(View view) {
+        Intent i = new Intent(getApplicationContext(), Teht3.class);
+        startActivity(i);
+    }
 
+    public void btn4Click(View view) {
+        Intent i = new Intent(getApplicationContext(), Teht4.class);
+        startActivity(i);
+    }
+
+    public void btn5Click(View view) {
+        Intent i = new Intent(getApplicationContext(), Luento1Teht1.class);
+        startActivity(i);
+    }
 
 }

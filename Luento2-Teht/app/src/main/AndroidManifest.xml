@@ -18,6 +18,13 @@
         </activity>
         <activity android:name=".Teht1"></activity>
         <activity android:name=".Teht2"></activity>
+        <activity android:name=".Teht3"></activity>
+        <activity android:name=".Teht4"></activity>
+        <activity android:name=".Luento1Teht1"/>
+        <activity
+            android:name=".DetailActivity"
+            android:label="@string/app_name" >
+        </activity>
     </application>
-
+<uses-permission android:name="android.permission.INTERNET"/>
 </manifest>
