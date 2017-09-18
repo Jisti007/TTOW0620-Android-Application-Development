@@ -1,1 +1,4 @@
-Ohjelman toiminta on yksinkertainen, mutta syyst‰ tai toisesta poistaminen ei toimi kunnolla. Jos poistaa jotakin listview ei p‰ivity ja jos klikkaa noteja app crashaa. Tosin jos menee luomaan uutta notea ja aktivoi n‰pp‰imistˆn, listview refreshaa ja kaikki toimii normaalisti. En tied‰ miksi t‰m‰ tapahtuu, en pysty k‰ytt‰m‰‰n emulaattoria testaakseni niin en ole varma onko t‰m‰ ohjelmointivirhe vai laitteessa ongelma, kuten stackoverflow:n muutamat threadit kertovat.
+Ohjelman toiminta on yksinkertainen, mutta syyst√§ tai toisesta poistaminen ei toimi kunnolla. 
+Jos poistaa jotakin listview ei p√§ivity ja jos klikkaa noteja app crashaa. 
+Tosin jos menee luomaan uutta notea ja aktivoi n√§pp√§imist√∂n, listview refreshaa ja kaikki toimii normaalisti. 
+En tied√§ miksi t√§m√§ tapahtuu, en pysty k√§ytt√§m√§√§n emulaattoria testaakseni niin en ole varma onko t√§m√§ ohjelmointivirhe vai laitteessa ongelma, kuten stackoverflow:n muutamat threadit kertovat.
